@@ -177,7 +177,7 @@ p > code {
     border-radius: var(--callout-radius);
     margin: 1em 0;
     mix-blend-mode: var(--callout-blend-mode);
-   
+    background-color: rgba(var(--callout-color), 0.1);
     padding: var(--callout-padding);
 }
 .callout.is-collapsible .callout-title {
