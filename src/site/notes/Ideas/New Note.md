@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/ideas/new-note/"}
+{"dg-publish":true,"permalink":"/ideas/new-note/","noteIcon":""}
 ---
 
 
-[[Home\|Home]]
+[[Telar Karan\|Telar Karan]]
 
 
 ---
