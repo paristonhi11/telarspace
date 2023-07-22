@@ -22,7 +22,7 @@ body {
     margin-top: 90px;
     position: relative;
 
-    @media (max-width: 950px) {
+    @media (max-width: 800px) {
         margin-top: 75px;
     }
 }
@@ -256,7 +256,7 @@ ul.task-list {
     width: fit-content;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1500px) {
     #link-graph {
         border-radius: 0 10px 10px 10px;
     }
@@ -349,7 +349,7 @@ ul.task-list {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    @media (max-width: 1400px) {
+    @media (max-width: 1500px) {
         position: fixed;
     }
 
