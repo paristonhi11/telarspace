@@ -3,7 +3,7 @@
 ---
 
 
-# Embrace the Art of Innovation: Welcome to Think Space with Telar Karan!
+# Embrace the Art of Innovation: Welcome to **Think Space** with Telar Karan!
 
 ## Unleash Creativity, Empower Ideas!
 
