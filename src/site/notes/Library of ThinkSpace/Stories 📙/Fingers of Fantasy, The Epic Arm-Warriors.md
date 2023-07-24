@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/library-of-think-space/stories/fingers-of-fantasy-the-epic-arm-warriors/"}
 ---
 
-
-**![Pasted image 20230725042641.png](/img/user/Pasted%20image%2020230725042641.png)**
+![Pasted image 20230725052859.png](/img/user/Library%20of%20ThinkSpace/Stories%20%F0%9F%93%99/attachments/Pasted%20image%2020230725052859.png)
 Once upon a time in a quiet little town, there lived a young boy named Timmy. Timmy was a creative and imaginative child, always lost in his own world of adventures and stories. He had a unique way of playing with his toys; instead of using action figures or toy swords, he created his own characters with his hands. With two fingers for legs and two fingers for arms, Timmy brought his imaginary friends to life in thrilling battles.
 
 In his mind, Timmy's two most beloved characters were Sir Twinkletoes, a graceful and swift swordsman with lightning-fast strikes, and Captain Thunderfist, a mighty warrior with powerful punches that could shake the earth. These two characters had contrasting personalities, but they were the best of friends when it came to defending the world from evil.
