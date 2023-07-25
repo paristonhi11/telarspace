@@ -37,6 +37,11 @@ the genius ways they have incorporated action sequence and horror is truly fasci
 
 Junji Ito is a master of utilizing the aspect of page turning a storytelling tool entirely unique to manga to create an intense and chilling horror experience in his manga. He employs various storytelling techniques, pacing, and visual artistry to build suspense, escalate tension, and evoke a sense of dread with each turn of the page.
 
+## Consistency of Vision
+
+When a single person creates a story, they have complete control over the narrative, characters, and world-building. This can lead to a more consistent and cohesive vision throughout the storytelling process.
+
+
 >Manga and comics captivate with visual storytelling wonders and diverse artistic styles, offering endless imagination and wonder. Embrace the magic of these extraordinary artistic wonders and embark on a journey through creativity and storytelling excellence.
 
 >The existence of fantasy shows like One Piece, Naruto, and Marvel owes its profound gratitude to the unparalleled medium of manga/comics. Without manga and comics, the captivating worlds, extraordinary characters, and enthralling narratives that have captured the hearts of millions would never have come to life.
