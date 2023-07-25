@@ -35,7 +35,11 @@ the genius ways they have incorporated action sequence and horror is truly fasci
 ![Pasted image 20230726044438.png](/img/user/Library%20of%20ThinkSpace/Storyteller_s%20Craft/attachments/Pasted%20image%2020230726044438.png)
 ![Pasted image 20230726044506.png](/img/user/Library%20of%20ThinkSpace/Storyteller_s%20Craft/attachments/Pasted%20image%2020230726044506.png)
 
-The existence of fantasy shows like One Piece, Naruto, and Marvel owes its profound gratitude to the unparalleled medium of manga/comics. Without manga and comics, the captivating worlds, extraordinary characters, and enthralling narratives that have captured the hearts of millions would never have come to life.
+Junji Ito is a master of utilizing the aspect of page turning a storytelling tool entirely unique to manga to create an intense and chilling horror experience in his manga. He employs various storytelling techniques, pacing, and visual artistry to build suspense, escalate tension, and evoke a sense of dread with each turn of the page.
+
+>Manga and comics captivate with visual storytelling wonders and diverse artistic styles, offering endless imagination and wonder. Embrace the magic of these extraordinary artistic wonders and embark on a journey through creativity and storytelling excellence.
+
+>The existence of fantasy shows like One Piece, Naruto, and Marvel owes its profound gratitude to the unparalleled medium of manga/comics. Without manga and comics, the captivating worlds, extraordinary characters, and enthralling narratives that have captured the hearts of millions would never have come to life.
 
 
 [^1]:Witness the incredible spectrum of emotions brilliantly depicted within a single frame: ![Pasted image 20230726035914.png](/img/user/Library%20of%20ThinkSpace/Storyteller_s%20Craft/attachments/Pasted%20image%2020230726035914.png)
