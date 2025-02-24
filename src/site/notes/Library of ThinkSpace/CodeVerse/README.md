@@ -1,3 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/library-of-think-space/code-verse/readme/"}
+---
 # 🖥️ ThinkSpace - Coding Chronicles 🚀
 
 Welcome to the **Coding** section of **ThinkSpace**, where we dive deep into programming, software development, and the art of writing efficient code. Whether you’re a beginner looking for foundational concepts or an experienced developer exploring advanced techniques, you’ll find insightful content tailored just for you!
