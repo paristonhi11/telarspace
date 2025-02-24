@@ -11,9 +11,9 @@ This blog provides an **architectural overview, key features, tech stack, challe
 ---
 
 ## **📌 Quick Navigation**  
-🔗 **[GitHub Repositories](https://github.com/stars/telarKaran/lists/shopmaster-360)** – Explore the source code  
-📄 **[System Architecture Diagram](#)** – High-level design overview  
-💑 **[Technical Documentation](#)** – API docs, setup guide, and workflows  
+🔗 [GitHub Repositories](https://github.com/stars/telarKaran/lists/shopmaster-360) – Explore the source code  
+📄 [System Architecture Diagram](#) – High-level design overview  
+💑 [Technical Documentation](#) – API docs, setup guide, and workflows  
 
 ---
 
